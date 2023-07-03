@@ -1,2 +1,3 @@
-# air_quality_analysis
-Yogyakarta's Air Quality Analysis for Gemastik 2023 - Data Mining Competition
+# Yogyakarta Air Quality Analysis
+
+Analyzing and Visualizing the air quality in Yogyakarta, using a 2021 dataset from Kaggle.com
